@@ -1,1 +1,3 @@
 https://esriis.sharepoint.com/:w:/r/sites/July2025Globalization-ReadinessHolisticLab/_layouts/15/Doc.aspx?sourcedoc=%7B724734B5-C2E0-4D18-AF1F-D552EEBED654%7D&file=LabPrep_Generative%20AI%20item%20Search%20V2.docx&action=default&mobileredirect=true&ovuser=c193b5ea-1926-4a46-a1b0-fbf26e3754a1%2Cromain.kahn%40esribelux.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA3MDMxODgwNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9
+
+https://i18nholistic1.dev.geocloud.com/portal 
